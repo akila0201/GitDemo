@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-02-16T19:46:41 IST" name="Suite" finished-at="2026-02-16T19:47:50 IST" duration-ms="68481">
+    <groups>
+    </groups>
+    <test started-at="2026-02-16T19:46:41 IST" name="Test" finished-at="2026-02-16T19:47:50 IST" duration-ms="68481">
+      <class name="testcase.TestCaseCreateLead">
+        <test-method is-config="true" signature="setValues()[pri:0, instance:testcase.TestCaseCreateLead@6f01b95f]" started-at="2026-02-16T19:46:41 IST" name="setValues" finished-at="2026-02-16T19:46:41 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setValues -->
+        <test-method is-config="true" signature="preconditions()[pri:0, instance:testcase.TestCaseCreateLead@6f01b95f]" started-at="2026-02-16T19:46:42 IST" name="preconditions" finished-at="2026-02-16T19:46:58 IST" duration-ms="16119" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preconditions -->
+        <test-method signature="createLead(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testcase.TestCaseCreateLead@6f01b95f]" started-at="2026-02-16T19:46:58 IST" name="createLead" data-provider="fetchData" finished-at="2026-02-16T19:47:21 IST" duration-ms="23683" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Demosalesmanager]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[crmsfa]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[HCL]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Akila]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[K]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createLead -->
+        <test-method is-config="true" signature="postconditions()[pri:0, instance:testcase.TestCaseCreateLead@6f01b95f]" started-at="2026-02-16T19:47:21 IST" name="postconditions" finished-at="2026-02-16T19:47:21 IST" duration-ms="130" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postconditions -->
+        <test-method is-config="true" signature="preconditions()[pri:0, instance:testcase.TestCaseCreateLead@6f01b95f]" started-at="2026-02-16T19:47:21 IST" name="preconditions" finished-at="2026-02-16T19:47:33 IST" duration-ms="11695" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preconditions -->
+        <test-method signature="createLead(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testcase.TestCaseCreateLead@6f01b95f]" started-at="2026-02-16T19:47:33 IST" name="createLead" data-provider="fetchData" finished-at="2026-02-16T19:47:50 IST" duration-ms="16398" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[DemoCSR]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[crmsfa]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[TCS]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Dexter]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[K]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createLead -->
+        <test-method is-config="true" signature="postconditions()[pri:0, instance:testcase.TestCaseCreateLead@6f01b95f]" started-at="2026-02-16T19:47:50 IST" name="postconditions" finished-at="2026-02-16T19:47:50 IST" duration-ms="169" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postconditions -->
+      </class> <!-- testcase.TestCaseCreateLead -->
+      <class name="testcase.TestCaseLoginLeaftaps">
+        <test-method is-config="true" signature="setValues()[pri:0, instance:testcase.TestCaseLoginLeaftaps@710636b0]" started-at="2026-02-16T19:46:41 IST" name="setValues" finished-at="2026-02-16T19:46:41 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setValues -->
+        <test-method is-config="true" signature="preconditions()[pri:0, instance:testcase.TestCaseLoginLeaftaps@710636b0]" started-at="2026-02-16T19:46:42 IST" name="preconditions" finished-at="2026-02-16T19:46:58 IST" duration-ms="16092" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preconditions -->
+        <test-method signature="Login(java.lang.String,java.lang.String)[pri:0, instance:testcase.TestCaseLoginLeaftaps@710636b0]" started-at="2026-02-16T19:46:58 IST" name="Login" data-provider="fetchData" finished-at="2026-02-16T19:47:00 IST" duration-ms="2153" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Demosalesmanager]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[crmsfa]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method is-config="true" signature="postconditions()[pri:0, instance:testcase.TestCaseLoginLeaftaps@710636b0]" started-at="2026-02-16T19:47:00 IST" name="postconditions" finished-at="2026-02-16T19:47:00 IST" duration-ms="657" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postconditions -->
+        <test-method is-config="true" signature="preconditions()[pri:0, instance:testcase.TestCaseLoginLeaftaps@710636b0]" started-at="2026-02-16T19:47:00 IST" name="preconditions" finished-at="2026-02-16T19:47:14 IST" duration-ms="13444" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preconditions -->
+        <test-method signature="Login(java.lang.String,java.lang.String)[pri:0, instance:testcase.TestCaseLoginLeaftaps@710636b0]" started-at="2026-02-16T19:47:14 IST" name="Login" data-provider="fetchData" finished-at="2026-02-16T19:47:16 IST" duration-ms="1750" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[DemoCSR]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[crmsfa]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method is-config="true" signature="postconditions()[pri:0, instance:testcase.TestCaseLoginLeaftaps@710636b0]" started-at="2026-02-16T19:47:16 IST" name="postconditions" finished-at="2026-02-16T19:47:16 IST" duration-ms="652" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postconditions -->
+      </class> <!-- testcase.TestCaseLoginLeaftaps -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
